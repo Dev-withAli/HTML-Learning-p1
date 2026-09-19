@@ -1,2 +1,2 @@
-# HTML-Learning-p1
-This is mu First HTML Learning Code, index.html file repo
+# My-HTML-Code
+This Repo include the HTML code that i practice after learning HTML.
